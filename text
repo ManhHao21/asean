@@ -1,0 +1,9 @@
+Chức năng:
+1 - Đăng nhập, đăng ký Sau khi đăng ký -> vào database chỉnh level = 1 để có thể vào trang quản trị.
+2 - Trang quản trị - đường dẫn /admin
+3 - Bài viết: Thêm, sửa, xóa, bài viết, danh mục bài viết => thêm sửa xóa danh mục. =>chọn 2 danh mục trong cấu hình bài viết
+4 - slider:  thêm sửa xóa, và ẩn
+5 - Giao diện: lựa chọn 2 danh mục
+6 - Ở dịch vụ nổi bật, thêm, sửa, xóa
+7 - cảm nhận khách hàng,khách hàng tiêu biểu =>  có thêm sửa xóa, và ẩn
+8 - Cấu hình thông tin sứcmệnh: thêm sửa xóa trong cấu hình sứ mệnh, về hình ảnh thì chỉ thêm cùng 1 lúc 3 ảnh hoặc 4 ảnh...
